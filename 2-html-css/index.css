@@ -1,0 +1,46 @@
+body{
+    /* background-color: rgba(21, 0, 255, 0.019); */
+    background-image: url("assets/fundo-imagem.jpg");
+    
+    /* Fixa a imagem mesmo com o zoom */
+    background-attachment: fixed;
+
+    /* A imagem cobre toda a página, mantém a proporção */
+
+    background-size: cover;
+
+    /* centraliza a imagem */
+    background-position: center;
+}
+
+
+
+
+h1 {
+    text-align: center;
+    color:rgb(165, 5, 5);
+    font-size: 40px;
+    font-family: gigi;
+}
+
+p{
+    text-align: justify;
+    color: white;
+    font-size: 15px;
+
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+    background-color: rgb(139, 139, 183);
+    border-radius: 10px;
+}
+
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px
+
+}

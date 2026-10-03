@@ -1,0 +1,37 @@
+body{
+    background-image:url("assets/fundo-pagina.jpg") ;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    color:rgb(50, 40, 191);
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: left;
+    color:rgb(79, 79, 0);
+    font-size: 20px;
+}
+
+button{
+    display: block;
+    background-color: rgb(5, 5, 144);
+    border-radius: 20px;
+}
+
+a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 20px
+
+
+}
