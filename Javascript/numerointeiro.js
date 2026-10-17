@@ -1,0 +1,10 @@
+let a= 10
+let b= 10
+
+if (a=== b)
+    c=a+b
+else
+    c= a * b
+
+console.log ('A = ${a}');
+console.log ('B = ${b}')
